@@ -25,7 +25,7 @@ This program will run as long as possible and will document the time it takes to
 
 
 ##Variables
-1. "first n"
+1. "firstN"
 2. "timePerN"
 3. "iterationsPerN"
 
